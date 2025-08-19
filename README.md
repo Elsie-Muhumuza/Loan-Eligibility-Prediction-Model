@@ -34,8 +34,11 @@ The **Random Forest Classifier** was selected as the final model due to its supe
 #### 🖼️ Sample Visuals
 Here are some plots from the analysis:
 
-![Decision Tree Confusion Matrix](images/Decision Tree Confusion Matrix.png)
-![Random Forest Confusion Matrix](images/Random Forest Confusion Matrix.png)
+![Decision Tree Confusion Matrix](images/decision_tree_confusion_matrix.png)  
+![Random Forest Confusion Matrix](images/random_forest_confusion_Matrix.png)
+
+[🔗 View full notebook](Loan_Eligibility_Prediction.ipynb)
+
 
 #### **🚀 Next Steps**
 
@@ -47,6 +50,7 @@ Here are some plots from the analysis:
 To run the notebook locally, clone this repository and install the required libraries:
 
 ```bash
-git clone [https://github.com/yourusername/loan-eligibility-prediction.git](https://github.com/yourusername/loan-eligibility-prediction.git)
+git clone https://github.com/yourusername/loan-eligibility-prediction.git
 cd loan-eligibility-prediction
 pip install -r requirements.txt
+
