@@ -47,10 +47,13 @@ Here are some plots from the analysis:
 
 #### **🛠️ Installation**
 
+## 🛠️ Installation
+
 To run the notebook locally, clone this repository and install the required libraries:
 
 ```bash
-git clone [https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model.git](https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model.git)
-cd loan-eligibility-prediction
+git clone https://github.com/Elsie-Muhumuza/Loan-Eligibility-Prediction-Model.git
+cd Loan-Eligibility-Prediction-Model
 pip install -r requirements.txt
+
 
