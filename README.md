@@ -1,5 +1,5 @@
 
-# loan-eligibility-prediction-model-comparison-
+# Loan-Eligibility-Prediction
 ### **Loan Eligibility Prediction**
 
 This repository contains an end-to-end machine learning project to automate the loan eligibility process for a housing finance company. By building and evaluating predictive models, the project provides a data-driven solution to streamline loan approvals and improve operational efficiency.
