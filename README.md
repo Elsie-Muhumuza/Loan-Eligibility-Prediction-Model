@@ -35,7 +35,7 @@ The **Random Forest Classifier** was selected as the final model due to its supe
 Here are some plots from the analysis:
 
 ![Decision Tree Confusion Matrix](images/Decision Tree Confusion Matrix.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Random Forest Confusion Matrix](images/Random Forest Confusion Matrix.png)
 
 #### **🚀 Next Steps**
 
