@@ -35,7 +35,7 @@ The **Random Forest Classifier** was selected as the final model due to its supe
 Here are some plots from the analysis:
 
 ![Decision Tree Confusion Matrix](images/decision_tree_confusion_matrix.png)  
-![Random Forest Confusion Matrix](images/random_forest_confusion_Matrix.png)
+![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
 
 [🔗 View full notebook](Loan_Eligibility_Prediction.ipynb)
 
